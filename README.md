@@ -71,7 +71,9 @@ The internship focused on advancing core skills in Artificial Intelligence (AI),
 **Nikhil Singh Chauhan**
 
 M.S – Artificial Intelligence and Cyber Security
+
 Indian Institute of Technology, Patna
+
 Patna, Bihar, India
 
 #
