@@ -21,3 +21,4 @@ The internship focused on advancing core skills in Artificial Intelligence (AI),
 📁 AI_ML_Engineer_JD_3.pdf
 
 AI/ML Engineer job descriptions used for comparative analysis in Assignment 1.
+#
