@@ -10,7 +10,7 @@ The internship focused on advancing core skills in Artificial Intelligence (AI),
 📁 BSERC_FINAL_REPORT.pdf
     Final internship report documenting all activities, assignments, learning outcomes, and conclusions.
 
-📁 Pratham_Kumar_Resume.pdf
+📁 Nikhil_Singh_Chauhan_Resume.pdf
     Resume used for AI/ML Engineer Job Ready Decoder analysis.
 
 📁 Large_Language_Models_Llama3_Study_Notes.pdf
@@ -22,7 +22,7 @@ The internship focused on advancing core skills in Artificial Intelligence (AI),
     AI/ML Engineer job descriptions used for comparative analysis in Assignment 1.
 ```
 
----
+#
 
 ## Internship Assignments
 
@@ -33,8 +33,7 @@ The internship focused on advancing core skills in Artificial Intelligence (AI),
 - Identified technical strengths and skill gaps.
 - Generated interview questions and personalized responses.
 - Developed a 30-day learning roadmap.
-
----
+#
 
 ### Assignment 2 – Understanding Large Language Models
 
@@ -44,7 +43,7 @@ The internship focused on advancing core skills in Artificial Intelligence (AI),
 - Identified missing information and oversimplifications.
 - Created an improved human-written explanation.
 
----
+#
 
 ## Tools and Technologies
 
@@ -55,7 +54,7 @@ The internship focused on advancing core skills in Artificial Intelligence (AI),
 - Microsoft Word
 - PDF Documentation
 
----
+#
 
 ## Learning Outcomes
 
@@ -65,17 +64,17 @@ The internship focused on advancing core skills in Artificial Intelligence (AI),
 - Practical use of Google NotebookLM.
 - Enhanced documentation and analytical skills.
 
----
+#
 
 ## Author
 
-**Pratham Kumar**
+**Nikhil Singh Chauhan**
 
-B.Tech – Computer Science and Engineering  
-PES University, Electronic City Campus  
-Bengaluru, Karnataka, India
+M.S – Artificial Intelligence and Cyber Security
+Indian Institute of Technology, Patna
+Patna, Bihar, India
 
----
+#
 
 ## License
 
