@@ -22,3 +22,10 @@ The internship focused on advancing core skills in Artificial Intelligence (AI),
 
 AI/ML Engineer job descriptions used for comparative analysis in Assignment 1.
 #
+# Internship Assignments
+# Assignment 1 – AI/ML Engineer Job Ready Decoder
+Compared three real-world AI/ML Engineer job descriptions using Google NotebookLM.
+Evaluated resume alignment with industry expectations.
+Identified technical strengths and skill gaps.
+Generated interview questions and personalized responses.
+Developed a 30-day learning roadmap.
