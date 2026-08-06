@@ -4,7 +4,9 @@ This repository archives the assignments, a comprehensive technical report and s
 
 The internship focused on advancing core skills in Artificial Intelligence (AI), Machine Learning (ML), Large Language Models (LLMs) and AI-assisted learning using Google NotebookLM. Through these assignments, the program emphasized overall industry readiness, technical communication and the practical application of modern AI tools.
 #
-# Repository Contents
+## Repository Contents
+
+```
 📁 BSERC_FINAL_REPORT.pdf
     Final internship report documenting all activities, assignments, learning outcomes, and conclusions.
 
@@ -15,17 +17,66 @@ The internship focused on advancing core skills in Artificial Intelligence (AI),
     Reference study material used for the Large Language Models assignment.
 
 📁 AI_ML_Engineer_JD_1.pdf
-
 📁 AI_ML_Engineer_JD_2.pdf
-
 📁 AI_ML_Engineer_JD_3.pdf
+    AI/ML Engineer job descriptions used for comparative analysis in Assignment 1.
+```
 
-AI/ML Engineer job descriptions used for comparative analysis in Assignment 1.
-#
-# Internship Assignments
-# Assignment 1 – AI/ML Engineer Job Ready Decoder
-Compared three real-world AI/ML Engineer job descriptions using Google NotebookLM.
-Evaluated resume alignment with industry expectations.
-Identified technical strengths and skill gaps.
-Generated interview questions and personalized responses.
-Developed a 30-day learning roadmap.
+---
+
+## Internship Assignments
+
+### Assignment 1 – AI/ML Engineer Job Ready Decoder
+
+- Compared three real-world AI/ML Engineer job descriptions using Google NotebookLM.
+- Evaluated resume alignment with industry expectations.
+- Identified technical strengths and skill gaps.
+- Generated interview questions and personalized responses.
+- Developed a 30-day learning roadmap.
+
+---
+
+### Assignment 2 – Understanding Large Language Models
+
+- Studied the fundamentals of Large Language Models (LLMs).
+- Used Google NotebookLM to generate explanations for different audiences.
+- Compared AI-generated explanations.
+- Identified missing information and oversimplifications.
+- Created an improved human-written explanation.
+
+---
+
+## Tools and Technologies
+
+- Google NotebookLM
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Large Language Models (LLMs)
+- Microsoft Word
+- PDF Documentation
+
+---
+
+## Learning Outcomes
+
+- Understanding AI/ML industry expectations.
+- Skill-gap analysis using AI-assisted tools.
+- Improved technical communication.
+- Practical use of Google NotebookLM.
+- Enhanced documentation and analytical skills.
+
+---
+
+## Author
+
+**Pratham Kumar**
+
+B.Tech – Computer Science and Engineering  
+PES University, Electronic City Campus  
+Bengaluru, Karnataka, India
+
+---
+
+## License
+
+This repository is created for educational and internship documentation purposes under the **BSERC–ISRO Def-Space Summer Internship Programme 2026**.
